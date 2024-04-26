@@ -1,2 +1,2 @@
 # easy_test
-实现简单的增删改查
+前后端分离 SpringBoot+Vue 实现简单的增删改查
